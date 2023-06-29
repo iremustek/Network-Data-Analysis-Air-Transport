@@ -16,3 +16,7 @@ Graph Analysis at Different Scales:
 
 ## Data
 The dataset, provided via **data** folder, comprises domestic flight data spanning different countries and years. 
+
+## Notebook
+
+Related notebook can be found [here](https://nbviewer.org/github/iremustek/Network-Data-Analysis-Air-Transport/blob/fe581d66df97e0905877085bfd54bba70b9f0e7b/Network%20Data%20Analysis%20of%20Passenger%20Flight%20Data.ipynb#) with all explanations regarding the analysis.
